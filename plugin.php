@@ -16,7 +16,7 @@ Author URI: http://rhein-main-kreis.feg.de/
 // count=42       Anzahl der anzuzeigenden Kalendereinträge
 // filter=...     Die Bereiche aus denen die Kalendereinträge stammen sollen.
 //                Z.B. Kinder, Pfadfinder, Jugend, Single, Frauen, Senioren, Seelsorge, Alle
-//                Es können mehrere Bereich durch ein Komma getrennt angegebwen werden.
+//                Es können mehrere Bereich durch ein Komma getrennt angegebSen werden.
 // title=no       Mit dem Wert no kann die Anzeige des Titels ausgeblendet werden.
 // titlelink=yes  Mit dem Wert yes kann der Titel als Link eingeschaltet werden.
 // comment=no     Mit dem Wert no kann die Anzeige der Bemerkung ausgeblendet werden.

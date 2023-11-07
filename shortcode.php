@@ -668,5 +668,4 @@ class CalendarShortcode
         }
     }
 }
-
 ?>
